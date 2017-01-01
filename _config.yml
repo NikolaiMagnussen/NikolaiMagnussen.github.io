@@ -1,1 +1,21 @@
-theme: jekyll-theme-midnight
+# Site settings
+title: [Security for thought]
+header-img: img/WarGames.jpg
+description: [Thoughts and ideas from my travels in the realms of programming and security]
+email: nikolai@magnussen.tf
+baseurl: ""
+url: "http://thoughts.magnussen.tf"
+twitter_username: Nikolai_mag
+github_username:  NikolaiMagnussen
+linkedin_username: https://linkedin.com/in/NikolaiMagnussen
+pgp_key: https://pgp.mit.edu/pks/lookup?search=0x8E81A8A8&op=index
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
