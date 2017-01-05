@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "<Insert title here>"
+subtitle:   "<Insert subtitle here>"
+date:       YYYY-MM-DD HH:MM:SS
+author:     "Nikolai Magnussen"
+header-img: "img/<insert header image>"
+---
+
+File naming:
+YYYY-MM-DD-title.md
+
+
+All content should be in markdown format
