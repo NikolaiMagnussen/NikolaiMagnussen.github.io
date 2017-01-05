@@ -966,16 +966,17 @@ Then go to the view, copy the base64-encoded mp3 and decode it.
 
 The following audio files originate from the following sources:
 
-- SantaGram APK: discombobulatedaudio1.mp3
-- Mobile Analytics - credentials, discombobulatedaudio2.mp3
-- Dungeon - discombobulatedaudio3.mp3
-- Debug Server - debug-20161224235959-0.mp3
-- Banner Ad Server -  discombobulatedaudio5.mp3
-- Uncaught Exception Handler -discombobulated-audio-6-XyzE3N9YqKNH.mp3
-- Mobile Analytics post auth - discombobulatedaudio7.mp3
+- SantaGram APK: **discombobulatedaudio1.mp3**
+- Mobile Analytics credentials: **discombobulatedaudio2.mp3**
+- Dungeon: **discombobulatedaudio3.mp3**
+- Debug Server: **debug-20161224235959-0.mp3**
+- Banner Ad Server: **discombobulatedaudio5.mp3**
+- Uncaught Exception Handler: **discombobulated-audio-6-XyzE3N9YqKNH.mp3**
+- Mobile Analytics post auth: **discombobulatedaudio7.mp3**
 
 
 # Part 5: Discombobulated Audio 
+
 ## 9) Who is the villain behind the nefarious plot. 
 
 We start by chaining the audio files together, ordered acording to their numbering.
