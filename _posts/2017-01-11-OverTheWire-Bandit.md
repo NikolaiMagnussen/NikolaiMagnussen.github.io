@@ -25,7 +25,7 @@ Regardless of your current level of expertise, I would recommend you complete it
 
 We can log into the ssh server by:
 
-	`❯ ssh bandit0@bandit.labs.overthewire.org`
+	❯ ssh bandit0@bandit.labs.overthewire.org
 
 and entering the password `bandit0`.
 
@@ -41,7 +41,7 @@ When logged in, we can find and read the file where the password is stored.
 
 This mean that the password to the next level is `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`, and we can connect to the next level by:
 
-	`❯ ssh bandit1@bandit.labs.overthewire.org`
+	❯ ssh bandit1@bandit.labs.overthewire.org
 
 and entering the password `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`.
 
