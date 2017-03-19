@@ -12,7 +12,7 @@ In particular, it can be used together with [LPWAN](https://en.wikipedia.org/wik
 Once connected to the platform, devices can send data, which at some later will be retrieved.
 Because Telenor CloudConnect utilize AWS as it's backend, it is highly scalable as well as providing out-of-the-box [elasticsearch](https://www.elastic.co/) capabilities for all data being sent to the platform.
 
-Elasticsearch provide flexible, scalable and distributed scaling based on indexed attributes. Because all data sent to Telenor CloudConnect, all attributes will be indexed, and thus searchable by taking advantage of the [elasticsearch DSL](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html).
+Elasticsearch provide flexible, scalable and distributed searching based on indexed attributes. Because all data sent to Telenor CloudConnect, all attributes will be indexed, and thus searchable by taking advantage of the [elasticsearch DSL](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html).
 
 ## Elastic Search DSL
 The elasticsearch capabilities can be taken advantage of through the Observation API for Telenor CloudConnect.
