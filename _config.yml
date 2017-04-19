@@ -13,6 +13,8 @@ pgp_key: https://pgp.mit.edu/pks/lookup?search=0x8E81A8A8&op=index
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 highlighter: rouge
 permalink: pretty
 paginate: 5
