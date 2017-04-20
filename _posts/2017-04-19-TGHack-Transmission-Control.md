@@ -99,7 +99,7 @@ Because both client and server have their own secret key, and the communication 
 $$\text{shared key } = c(dG) = d(cG)$$
 
 But we do not have any knowledge of either $$c$$ nor $$d$$ meaning we can't calulate the __shared key__. Perhaps this is a poor implementation due to bad parameters?
-We can easily check that the prime $$15517495227187$$ is only 44 bits, which result in the possibility of breaking the [discrete logarithm problem](https://en.wikipedia.org/wiki/Discrete_logarithm) that [Diffie-Hellman](https://wiki.openssl.org/index.php/Diffie_Hellman) relies on.
+We can easily check that the prime $$15517495227187$$ is only 44 bits, which result in the possibility of breaking the [discrete logarithm problem](https://en.wikipedia.org/wiki/Discrete_logarithm) that [Diffie-Hellman](https://wiki.openssl.org/index.php/Elliptic_Curve_Diffie_Hellman) relies on.
 
 Let's try to do just that using [sagemath](http://www.sagemath.org/):
 
