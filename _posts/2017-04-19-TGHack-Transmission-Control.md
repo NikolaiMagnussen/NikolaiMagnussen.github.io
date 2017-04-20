@@ -7,8 +7,16 @@ author:     "Nikolai Magnussen"
 header-img: "img/tghack-bg.png"
 ---
 
+This is the first in a series of blog posts that will explain challenges from hacking competition held at The Gathering 2017, called TGHack.
+TGHack is organized by [The Gathering](https://www.gathering.org/tg17/), created and held by a number of students at [UiO](https://www.uio.no/english/), and sponsored by [NSM](https://nsm.stat.no/english/).
+
+I implore you to read the blog and writeups of [Martin Ingesen](http://martin.ingesen.no/), another member of the Edward Pwnden CTF team.
+You should also read the writeup of this challenge by it's creator [here](https://github.com/tghack/tg17hack/blob/master/crypto/transmission_control/writeup.md)
+
 # Transmission Control
 
+> Category: Crypto
+>
 > Points: 250
 >
 > Author: Chabz
