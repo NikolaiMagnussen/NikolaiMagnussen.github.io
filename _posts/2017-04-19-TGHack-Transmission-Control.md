@@ -17,7 +17,7 @@ You should also read the writeup of this challenge by it's creator [here](https:
 
 > Category: Crypto
 >
-> Points: 250
+> Points: 275
 >
 > Author: Chabz
 >
